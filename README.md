@@ -9,7 +9,7 @@ I am a computer engineering graduate from McGill University, passionate about so
 - 💻 Building full-stack application using Spring Boot and Angular
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/shaswata79/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaswata79/))
 
 # 💻 Tech Stack:
 Languages: 
