@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋 I'm Shaswata Bhattacharyya</h1>
+<h1 align="center">Hello 👋 I'm Shaswata Bhattacharyya</h1>
 
-# 💫 About Me:
+# 🚀 About Me:
 I am a computer engineering graduate from McGill University, passionate about software engineering, distributed systems, game development and robotics.
 
-## 🚀 What I'm Up To
+## 🎓 What I'm Up To
 
 - 🗿 Exploring AWS 
 - 💻 Building full-stack application using Spring Boot and Angular
